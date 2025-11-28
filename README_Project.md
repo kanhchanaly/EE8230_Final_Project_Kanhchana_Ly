@@ -7,7 +7,8 @@ The main files include:
 - .ipynb: notebook containing the analysis and pipeline for the trained model
 
 The trained model was also deployed at HugginFace at: https://huggingface.co/spaces/kanhchanaly/white_wine_regression_alcohol_prediction
-The corresponding files for launching the space are also provided here:
+
+The corresponding files for building the space are also provided here:
 - README.md: readme file for huggingface
 - app.py
 - requirements.txt
