@@ -3,17 +3,10 @@ Abstract: Physiochemical properties of wine can provide insights into its alcoho
 
 Presentation link: 
 
-The main files include:
+The trained model was also deployed at HuggingFace at: https://huggingface.co/spaces/kanhchanaly/white_wine_regression_alcohol_prediction
+
+The main files of the repository include:
 - README.md: current file
 - winequality-white.csv: the csv file of the dataset
 - Kanhchana-Ly-Final-Project-EE8230.ipynb: notebook containing the analysis and pipeline for the trained model
-
-The trained model was also deployed at HugginFace at: https://huggingface.co/spaces/kanhchanaly/white_wine_regression_alcohol_prediction
-
-The corresponding files for building the space are also provided here:
-- README_Hugginface.md: readme file for huggingface
-- app.py
-- requirements.txt
-- white_wine_regression_model.pkl: saved model in .pkl format
-- .gitattributes
 
